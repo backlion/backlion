@@ -7,6 +7,6 @@
 - 📫 How to reach me: root@backlion.org
 - 💖 My idols: Dirk jan(@dirkjanm), Adam Chester(@xpn), 3gstudent, evilcg, and all the people who love to share!
 
-### Lz1y's github stats
+### backlion's github stats
 
 ![backlion's github stats](https://github-readme-stats.vercel.app/api?username=backlion&show_icons=true&theme=dracula)
